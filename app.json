@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Atlas Expo Quickstart",
+    "slug": "atlas-expo-quickstart",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "atlasexpo",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "net.atlasauth.expoquickstart" },
+    "android": { "package": "net.atlasauth.expoquickstart" },
+    "plugins": ["expo-secure-store", "expo-web-browser"]
+  }
+}
